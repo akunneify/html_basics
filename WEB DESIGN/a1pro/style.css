@@ -1,0 +1,76 @@
+
+        div{
+        color: brown;    
+        }
+
+        nav{
+            color: blue;
+        }
+
+        p{
+            color: darkgoldenrod;
+        }
+        h1{
+            /* background-color: rebeccapurple;
+            font-size: 50px;  */
+            background: orange 20px   ;
+        }
+        h2{
+            background-size: 0px;
+        }
+        /* this is a comment but only in css. even though you are doing style in html you cannot use this to comment,as long as it is in html file. */
+        /* we alwasy start with a dot when we are looking for a class */
+        /* id are used mostly used in javascript. its starts with hash# */
+        .error{
+            color: aqua;
+        }
+        .tech{
+            color: brown;
+        }
+        div.tech{
+            color: purple;
+        }
+        #content{
+            color: orange;
+        }
+   /* by adding a spaece inside a cssyoure saying it is a descendant selector but only text are not automatically inherited except is is specially signified */
+a[href]{
+    background-size: 50px;
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
